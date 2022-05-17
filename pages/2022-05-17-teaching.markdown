@@ -1,0 +1,27 @@
+---
+layout: page
+title:  "Teaching"
+date:   2022-05-17 00:45:54 +0200
+permalink: /teaching/
+---
+I've been a TA and grader for a bunch of courses in the past. But the specifics are a SECRET! What are you doing nosing around on this website?
+
+Okay, you seem like a pretty nice person. Here they are:
+
+<br/><br/>
+
+Cornell University:
+
+Fall 2021: [MATH 1910](https://sce.cornell.edu/courses/roster/math-1910) (Calculus II for Engineers) - Teaching Assistant
+
+<br/><br/>
+
+Stony Brook University:
+
+Fall 2020: [MAT 127](https://www.math.stonybrook.edu/MAT127) (Calculus C) - Grader
+
+Spring 2020: [AMS 303](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams303.php) (Graph Theory) - Teaching Assistant
+
+Fall 2019: [MAT 211](https://www.math.stonybrook.edu/MAT211) (Introduction to Linear Algebra) -
+
+Fall 2019: [AMS 301](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams303.php) (Discrete Mathematical Structures) - Teaching Assistant

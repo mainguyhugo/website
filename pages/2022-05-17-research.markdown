@@ -1,0 +1,27 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
+
+Here are some projects that I have worked on:
+
+**Congestion Pricing in Bogotá**, with Nikhil Garg, Andrea Lodi and Natthawut Boonsiriphatthanajaroen (January 2022 - ):
+
+Designing an optimal tolling system for the city of Bogotá, in partnership with Clearroad.
+
+<br/><br/>
+
+**PoliTech / Redistricting**, with Robert Kelly, and research group (January 2020 - May 2021):
+
+Designing a good redistricting system for US Congressional elections to fight against gerrymandering.
+
+<br/><br/>
+
+**The Intersection of the Traveling Salesperson Cycle/Path with Other Graphs**, with Joseph Mitchell, Logan Graham, Gaurish Telang, Sam van der Poel (January 2019 - May 2021):
+
+Exploring the intersection of the TSP with various graphs such as the Nearest Neighbor Graph, Minimum Spanning Tree, Delaunay Triangulation and more, answering questions such as "do they need to intersect?"
+
+<br/><br/>
+
+That was a little too serious. I'm sorry.
