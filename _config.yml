@@ -22,8 +22,8 @@ title: Hugo Mainguy's website!
 email: hm396@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is my website for ORIE 6125! Please do not take it seriously, I hope that this is not my website by the time I get on the academic job market (if Cornell doesn't kick me out beforehand).
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/website" # the subpath of your site, e.g. /blog
+url: "https://mainguyhugo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  mainguyhugo
 linkedin_username: hugo-mainguy-988b36189
