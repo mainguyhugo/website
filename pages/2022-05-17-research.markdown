@@ -6,22 +6,24 @@ permalink: /research/
 
 Here are some projects that I have worked on:
 
-**Congestion Pricing in Bogotá**, with Nikhil Garg, Andrea Lodi and Natthawut Boonsiriphatthanajaroen (January 2022 - ):
+**Vehicle Routing Problems with Uncertainty**, with [Bruce Golden](https://www.rhsmith.umd.edu/directory/bruce-l-golden) and [Luca Bertazzi](https://luca-bertazzi.unibs.it/) (July 2023 - ):
 
-Designing an optimal tolling system for the city of Bogotá, in partnership with Clearroad.
+The project is still in an early phase, but the overall aim is to find good algorithms and heuristics to solve different versions of the Vehicle Routing Problem before all inputs are actually known.
 
-<br/><br/>
+**Congestion Pricing in Bogotá**, with [Nikhil Garg](https://gargnikhil.com/), [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and [Natthawut Boonsiriphatthanajaroen](https://www.orie.cornell.edu/research/grad-students/natthawut-boonsiriphatthanajaroen) (January 2022 - ):
 
-**PoliTech / Redistricting**, with Robert Kelly, and research group (January 2020 - May 2021):
-
-Designing a good redistricting system for US Congressional elections to fight against gerrymandering.
+Designing an optimal tolling system for the city of Bogotá, in partnership with Clearroad. This is an end-to-end project, using map matching with OpenStreetMap, designing alternate routes, creating a survey to determine users' willingness to pay given prices, and implementing a [graph algorithm](https://link.springer.com/content/pdf/10.1007/s10107-006-0076-2.pdf) in order to model the system (and more).
 
 <br/><br/>
 
-**The Intersection of the Traveling Salesperson Cycle/Path with Other Graphs**, with Joseph Mitchell, Logan Graham, Gaurish Telang, Sam van der Poel (January 2019 - May 2021):
+**PoliTech / Redistricting**, with [Robert Kelly](https://www3.cs.stonybrook.edu/~robkelly/index.htm), and research group (January 2020 - May 2021):
 
-Exploring the intersection of the TSP with various graphs such as the Nearest Neighbor Graph, Minimum Spanning Tree, Delaunay Triangulation and more, answering questions such as "do they need to intersect?"
+Designing a good redistricting system for US Congressional elections to fight against gerrymandering. Specifically, I focused most on compactness measures and their analysis.
 
 <br/><br/>
 
-That was a little too serious. I'm sorry.
+**The Intersection of the Traveling Salesperson Cycle/Path with Other Graphs**, with [Joseph Mitchell](http://www.ams.sunysb.edu/~jsbm/jsbm.html), [Logan Graham](https://github.com/LoganDGraham), Gaurish Telang, [Sam van der Poel](https://samvanderpoel.github.io/) (January 2019 - May 2021):
+
+Exploring the intersection of the TSP with various graphs such as the Nearest Neighbor Graph, Minimum Spanning Tree, Delaunay Triangulation/Diagram and more, proving among other things that the TSP path/cycle may be disjoint from the Nearest Neighbor Graph, and that there exist polygonalizations of a point set (a non optimal cycle) that can be disjoint from the Delaunay Triangulation.
+
+<br/><br/>
