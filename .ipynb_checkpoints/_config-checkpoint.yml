@@ -18,12 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+#<<<<<<< Updated upstream
+#title: Hugo Mainguy's website!
+#email: hm396@cornell.edu
+#=======
 title: Hugo Mainguy's website
-email: hmainguy@umd.edu
+email: hmainguy at umd dot edu
+#>>>>>>> Stashed changes
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a website made for ORIE 6125 at Cornell, please do not take it too seriously. I promise I can be a serious person as long as I don't have the option of throwing fish on ice for whatever reason. Similarly, most of the year, I use toothpaste only to brush my teeth.
-baseurl: "/website" # the subpath of your site, e.g. /blog
-url: "https://mainguyhugo.github.io/website/" # the base hostname & protocol for your site, e.g. http://example.com
+  #This is my website for ORIE 6125! Please do not take it seriously, I hope that this is not my website by the time I get on the academic job market (if Cornell doesn't kick me out beforehand).
+   This is a website made for ORIE 6125 at Cornell, please do not take it too seriously. I promise I can be a serious person as long as I don't have the option of throwing fish on ice for whatever reason. Similarly, most of the year, I use toothpaste only to brush my teeth.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "hugomainguy.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  mainguyhugo
 linkedin_username: hugo-mainguy-988b36189
