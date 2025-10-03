@@ -4,26 +4,20 @@ title: Research
 permalink: /research/
 ---
 
-Here are some projects that I have worked on:
+A general overview of the main projects I have worked on over time:
 
 **Estimating Optimal Solution Values for the 0-1 Knapsack Problem: An Introduction to Fortified Estimation**, with [Bruce Golden](https://www.rhsmith.umd.edu/directory/bruce-l-golden) and [Luca Bertazzi](https://luca-bertazzi.unibs.it/) (September 2023 - September 2025):
 
-In this project, I developed a heuristic designed around a randomized greedy heuristic for the 0-1 Knapsack Problem to obtain very good optimal solution value predictions. Those results can be extended to other combinatorial optimization problems easily, and also have theoretical guarantees. _The paper is currently under review._ 
+In this project, I developed a heuristic designed around a randomized greedy heuristic for the 0-1 Knapsack Problem to obtain very good optimal solution value predictions. Those results can be extended to other combinatorial optimization problems easily, and also have theoretical guarantees. _Paper currently under review._ 
 
 **Equitable Congestion Pricing under the Markovian Traffic Model: An Application to Bogotá**, with [Nikhil Garg](https://gargnikhil.com/), [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/), [Alfredo Torrico](https://sites.google.com/view/atorrico)  and [Natthawut Boonsiriphatthanajaroen](https://www.orie.cornell.edu/research/grad-students/natthawut-boonsiriphatthanajaroen) (January 2022 - May 2023):
 
-I worked on creating an optimal tolling system for the city of Bogotá, in partnership with Clearroad. This is an end-to-end project, using map matching with OpenStreetMap to quantify user behavior, designing alternate routes, creating a survey to determine users' willingness to pay given prices, and implementing a [graph algorithm](https://link.springer.com/content/pdf/10.1007/s10107-006-0076-2.pdf) in order to model the system and implement various pricing schemes while leaving open an outside option (e.g., transit). The paper is available [here](https://arxiv.org/abs/2407.05035).
-
-<br/><br/>
+I worked on creating an optimal tolling system for the city of Bogotá, in partnership with Clearroad. This is an end-to-end project, using map matching with OpenStreetMap to quantify user behavior, designing alternate routes, creating a survey to determine users' willingness to pay given prices, and implementing a [graph algorithm](https://link.springer.com/content/pdf/10.1007/s10107-006-0076-2.pdf) in order to model the system and implement various pricing schemes while leaving open an outside option (e.g., transit). The paper is available [here](https://arxiv.org/abs/2407.05035) and was presented at ACM Conference on Economics and Computation (EC'24).
 
 **PoliTech / Redistricting**, with [Robert Kelly](https://www3.cs.stonybrook.edu/~robkelly/index.htm), and research group (January 2020 - May 2021):
 
 I worked on designing a good redistricting system for US Congressional elections to fight against gerrymandering. Specifically, I focused most on compactness measures and their analysis.
 
-<br/><br/>
-
 **The Intersection of the Traveling Salesperson Cycle/Path with Other Graphs**, with [Joseph Mitchell](http://www.ams.sunysb.edu/~jsbm/jsbm.html), [Logan Graham](https://github.com/LoganDGraham), Gaurish Telang, [Sam van der Poel](https://samvanderpoel.github.io/) (January 2019 - May 2021):
 
 I explored the intersection of the TSP with various graphs such as the Nearest Neighbor Graph, Minimum Spanning Tree, Delaunay Triangulation/Diagram and more, proving among other things that the TSP path/cycle may be disjoint from the Nearest Neighbor Graph, and that there exist polygonalizations of a point set (a non optimal cycle) that can be disjoint from the Delaunay Triangulation.
-
-<br/><br/>

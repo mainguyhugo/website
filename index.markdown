@@ -12,6 +12,8 @@ Updates September 2025: I passed my comprehensive exam, and will soon officially
 
 Updates January 2025: Completed qualifying exams!
 
+Updates July 2024: The paper Equitable Congestion Pricing under the Markovian Traffic Model: An Application to Bogotá was presented at the ACM Conference on Economics and Computation (EC'24)!
+
 Updates September 2023: Started PhD in the Operations Management/Management Science in the Smith School of Business at the University of Maryland!
 
 ---
