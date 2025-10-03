@@ -1,26 +1,17 @@
 ---
 layout: page
-title:  "Teaching"
-date:   2022-05-17 00:45:54 +0200
-permalink: /teaching/
+title:  "Talks"
+date:   2025-10-03 18:30:21 +0200
+permalink: /talks/
 ---
 
-<br/><br/>
+**Estimating Optimal Solution Values for the 0-1 Knapsack Problem: An Introduction to Fortified Estimation**
 
-Cornell University:
+October 2025, INFORMS Annual Meeting, Atlanta, GA <br>
+May 2025, POMS Conference, Atlanta, GA <br>
+March 2025, UMD OMMS DOIT Doctoral Consortium, College Park, MD <br>
+October 2024, INFORMS Annual Meeting, Seattle, WA <br>
 
-Spring 2023: [ORIE 3120](https://people.orie.cornell.edu/pfrazier/orie3120/) (Practical Tools for Operations Research, Machine Learning and Data Science) - Teaching Assistant
+**Equitable Congestion Pricing under the Markovian Traffic Model: An Application to Bogotá**
 
-Fall 2021, Fall 2022: [MATH 1910](https://sce.cornell.edu/courses/roster/math-1910) (Calculus II for Engineers) - Teaching Assistant
-
-<br/><br/>
-
-Stony Brook University:
-
-Fall 2020: [MAT 127](https://www.math.stonybrook.edu/MAT127) (Calculus C) - Grader
-
-Spring 2020: [AMS 303](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams303.php) (Graph Theory) - Teaching Assistant
-
-Fall 2019: [MAT 211](https://www.math.stonybrook.edu/MAT211) (Introduction to Linear Algebra) - Grader
-
-Fall 2019: [AMS 301](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams303.php) (Discrete Mathematical Structures) - Teaching Assistant
+May 2023, NYC Ops Day Doctoral Consortium, New York, NY <br>
