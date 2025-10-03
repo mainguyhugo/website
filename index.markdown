@@ -7,4 +7,4 @@
 layout: redirect
 permalink: /
 ---
-<meta http-equiv="refresh" content="0; url=/about/">
+<meta http-equiv="refresh" content="0; url=/website/about/">
