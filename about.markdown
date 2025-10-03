@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello! My name is Hugo Mainguy, a third year PhD student in Operations Management at the University of Maryland Smith Business School. Prior to this, I obtained my MS in Operations Research and Information Engineering from Cornell University and my BS in Applied Mathematics and Statistics as well as Mathematics from Stony Brook University. I am broadly interested in modeling and heuristic/optimization for topics related to transportation and routing, such as Traveling Salesperson or Vehicle Routing problems, along with questions about societal systems, with some specifics being congestion pricing, redistricting, voting theory and more.
 
-You can find a one page resume [here](/assets/files/Resume_05_2024.pdf) and a longer CV [Download my Resume](/assets/files/Long_CV_05_2024.pdf) (last updated May 2024).
+You can find a one page resume [here](/assets/files/Resume_05_2024.pdf) and [a longer CV](/assets/files/Long_CV_05_2024.pdf) (last updated May 2024).
 
 ![Alt text](/assets/images/Headshot 2022.jpg)
 
