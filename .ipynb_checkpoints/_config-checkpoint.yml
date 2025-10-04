@@ -22,7 +22,7 @@ title: Hugo Mainguy
 email: hmainguy at umd dot edu
 description: >- # this means to ignore newlines until "baseurl:"
    Welcome to my website! If you are interested in any of the work you see or would like to chat about other things, feel free to send me an email. Looking forward to hearing from you!
-   #This is a website made for ORIE 6125 at Cornell, please do not take it too seriously. I promise I can be a serious person as long as I don't have the option of throwing fish on ice for whatever reason. Similarly, most of the year, I use toothpaste only to brush my teeth.
+#This is a website made for ORIE 6125 at Cornell, please do not take it too seriously. I promise I can be a serious person as long as I don't have the option of throwing fish on ice for whatever reason. Similarly, most of the year, I use toothpaste only to brush my teeth.
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://mainguyhugo.github.io/website/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
